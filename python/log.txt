@@ -1,5 +1,0 @@
-hello PythON
-my name is amit 
-i learn python for fun 
-i n this
-is a pythoN
